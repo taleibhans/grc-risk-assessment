@@ -1,1 +1,11 @@
+## 1) `risk_register.xlsx` (table contents)
+
+| Risk ID | Threat Description                                      | Likelihood | Impact | Inherent Risk | Existing Controls               | Residual Risk | Owner         | Mitigation Plan                                      | Review Date |
+| ------- | ------------------------------------------------------- | :--------: | :----: | :-----------: | ------------------------------- | ------------- | ------------- | ---------------------------------------------------- | ----------- |
+| R1      | Unauthorized access to customer data (cloud share leak) |    High    |  High  |    Critical   | Basic folder perms, admin creds | Medium        | Security Lead | Cloud access audit; enforce MFA; audit sharing links | 2025-12-05  |
+| R2      | System outage during peak sales (ecommerce downtime)    |   Medium   |  High  |      High     | Backups, provider SLA           | Medium        | Ops Manager   | Improve failover, run load test, add CDN caching     | 2025-12-15  |
+| R3      | Compromised employee credentials via phishing           |    High    |  High  |    Critical   | Spam filter; some training      | Medium        | IT Security   | Enforce MFA company-wide; quarterly phishing sims    | 2025-11-30  |
+| R4      | POS / Vending machine tampering (physical / firmware)   |   Medium   | Medium |     Medium    | Device locks, CCTV              | Low           | Operations    | MDM for tablets; firmware updates; physical seals    | 2026-01-10  |
+| R5      | Third-party vendor breach affecting payments/CRM        |   Medium   |  High  |  Medium-High  | Contractual SLAs (partial)      | Medium        | Finance/IT    | Vendor questionnaire; require SOC2/PCI evidence      | 2025-12-20  |
+| R6      | Backup restore failure (backups not restorable)         |     Low    |  High  |     Medium    | Backups exist; not tested       | Medium        | IT Ops        | Quarterly restore testing; encrypt backups; document | 2026-01-15  |
 
