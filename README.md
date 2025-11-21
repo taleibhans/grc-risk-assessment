@@ -24,4 +24,4 @@ This repo contains a practical GRC portfolio project for **LuxeOnGo** — a beau
 MIT
 
 ## Contact
-Talei — add your LinkedIn or email here.
+Talei — www.linkedin.com/in/talei-ibhanesebhor-402108340
