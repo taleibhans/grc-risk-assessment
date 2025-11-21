@@ -1,4 +1,4 @@
-# LuxeOnGo — IT Risk Assessment & Compliance Review
+# IT Risk Assessment & Compliance Review
 
 **Author:** Talei Ibhanesebhor
 **Version:** 1.0 — 2025-11-21
