@@ -18,16 +18,7 @@ This repo contains a practical GRC portfolio project for **LuxeOnGo** — a beau
 - Mapped controls to ISO 27001 Annex A & NIST CSF
 - Prioritized remediation plan (MFA, patching, logging, backups)
 - Practical policy (AUP) tailored to retail + POS + vending environment
-- Interview-ready artifacts: risk register, talking points, evidence checklist
 
-## How to use
-1. Browse the PDFs to see professional documentation you can discuss in interviews.  
-2. Use `templates/risk_register.xlsx` to track remediation efforts.  
-3. Show `docs/images/` diagrams during interviews to explain architecture and control mapping.  
-
-## Suggested talking points
-- One-liner: “I built a targeted IT risk assessment for LuxeOnGo to address phishing, cloud misconfigurations, and POS security — with prioritized remediation and policy artifacts.”  
-- If they ask about impact: describe business function (ecommerce + services + vending) and say MFA rollout + cloud audit was the #1 recommendation.
 
 ## License
 MIT
