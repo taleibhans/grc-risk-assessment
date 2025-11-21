@@ -1,5 +1,5 @@
 
-# 📄 LuxeOnGo — IT Risk Assessment 
+# 📄 **LuxeOnGo — IT Risk Assessment** 
 
 **Author:** Talei
 **Date:** 2025-11-21
