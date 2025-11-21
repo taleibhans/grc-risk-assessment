@@ -274,7 +274,6 @@ This is excellent for your GitHub.
 | A.16 Incident Management  | RS.MI                    |
 | A.17 Business Continuity  | RC                       |
 
-Use this in interviews to sound senior-level.
 
 ---
 
