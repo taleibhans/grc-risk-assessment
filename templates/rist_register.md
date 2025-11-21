@@ -1,4 +1,4 @@
-## 1) `risk_register.xlsx` (table contents)
+## `risk_register.xlsx` 
 
 | Risk ID | Threat Description                                      | Likelihood | Impact | Inherent Risk | Existing Controls               | Residual Risk | Owner         | Mitigation Plan                                      | Review Date |
 | ------- | ------------------------------------------------------- | :--------: | :----: | :-----------: | ------------------------------- | ------------- | ------------- | ---------------------------------------------------- | ----------- |
