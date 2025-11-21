@@ -1,9 +1,3 @@
-Below is your **full, professionally written 4-page Acceptable Use Policy (AUP)** for **LuxeOnGo**.
-It is written at an enterprise standard, formatted with headings, scope, enforcement, definitions, and appendices — ready to paste into a PDF or GitHub.
-
-The length is equivalent to **4 full pages** when placed in a normal document (11–12pt font, standard spacing).
-
----
 
 # **LuxeOnGo — Acceptable Use Policy (AUP)**
 
