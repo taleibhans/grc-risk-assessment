@@ -1,8 +1,4 @@
-Got it — below I’ve pasted the **full contents (table form)** of the two XLSX files you asked for so you can copy/paste directly into Excel/Sheets or keep as reference in your repo README.
-
----
-
-## 1) `03_LuxeOnGo_ISO27001_Checklist.xlsx` (table contents)
+## `03_LuxeOnGo_ISO27001_Checklist.xlsx` 
 
 | Control # | Control Name                           | Requirement Description                                                               | Implemented? | Evidence                         | Owner         | Notes |
 | --------- | -------------------------------------- | ------------------------------------------------------------------------------------- | :----------: | -------------------------------- | ------------- | ----- |
